@@ -80,12 +80,12 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2024-02-23 01:50:34+0000","generator":"GlotPress\/4.0.0-beta.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_AU"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src='wp-admin/js/password-strength-meter.min.js?ver=5.8.9' id='password-strength-meter-js'></script>
+<script src='wp-admin/js/password-strength-meter.min.js' id='password-strength-meter-js'></script>
 <script src='wp-includes/js/underscore.min.js' id='underscore-js'></script>
 <script id='wp-util-js-extra'>
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src='wp-includes/js/wp-util.min.js?ver=5.8.9' id='wp-util-js'></script>
+<script src='wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
 <script id='user-profile-js-extra'>
 var userProfileL10n = {"user_id":"0","nonce":"2d8534d470"};
 </script>
@@ -96,7 +96,7 @@ var userProfileL10n = {"user_id":"0","nonce":"2d8534d470"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2024-02-23 01:50:34+0000","generator":"GlotPress\/4.0.0-beta.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_AU"},"Your new password has not been saved.":["Your new password has not been saved."],"Hide":["Hide"],"Show":["Show"],"Show password":["Show password"],"Confirm use of weak password":["Confirm use of weak password"],"Hide password":["Hide password"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src='wp-admin/js/user-profile.min.js?ver=5.8.9' id='user-profile-js'></script>
+<script src='wp-admin/js/user-profile.min.js' id='user-profile-js'></script>
 	<script>
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
