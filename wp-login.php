@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; Stand up to the Grownups &#8212; WordPress</title>
 	<meta name='robots' content='max-image-preview:large, noindex, noarchive' />
 <link rel='dns-prefetch' href='https://s.w.org/' />
-<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min.css?ver=5.8.9' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min.css?ver=5.8.9' media='all' />
-<link rel='stylesheet' id='forms-css'  href='wp-admin/css/forms.min.css?ver=5.8.9' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='wp-admin/css/l10n.min.css?ver=5.8.9' media='all' />
-<link rel='stylesheet' id='login-css'  href='wp-admin/css/login.min.css?ver=5.8.9' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min.css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min.css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='wp-admin/css/forms.min.css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='wp-admin/css/l10n.min.css' media='all' />
+<link rel='stylesheet' id='login-css'  href='wp-admin/css/login.min.css' media='all' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
 	<link rel="icon" href="wp-content/uploads/2020/01/cropped-writing_header-2-32x32.jpg" sizes="32x32" />
@@ -57,7 +57,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="index.html">&larr; Go to Stand up to the Grownups</a>		</p>
 			</div>
-	<script src='wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+	<script src='wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
 <script src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script id='zxcvbn-async-js-extra'>
 var _zxcvbnSettings = {"src":"https:\/\/standuptothegrownups.net\/wp-includes\/js\/zxcvbn.min.js"};
@@ -81,7 +81,7 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 } )( "default", {"translation-revision-date":"2024-02-23 01:50:34+0000","generator":"GlotPress\/4.0.0-beta.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_AU"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
 <script src='wp-admin/js/password-strength-meter.min.js?ver=5.8.9' id='password-strength-meter-js'></script>
-<script src='wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script src='wp-includes/js/underscore.min.js' id='underscore-js'></script>
 <script id='wp-util-js-extra'>
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
