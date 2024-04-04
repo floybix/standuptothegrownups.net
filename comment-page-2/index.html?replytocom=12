@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-AU">
+
+	<head>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+
+		<title>Stand up to the Grownups &#8211; Activism for kids</title>
+<meta name='robots' content='max-image-preview:large, noindex, follow' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Stand up to the Grownups &raquo; Feed" href="https://standuptothegrownups.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stand up to the Grownups &raquo; Comments Feed" href="https://standuptothegrownups.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stand up to the Grownups &raquo; Article 12 Comments Feed" href="https://standuptothegrownups.net/article-12/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/standuptothegrownups.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.9"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://standuptothegrownups.net/wp-includes/css/dist/block-library/style.min.css?ver=5.8.9' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css'  href='https://standuptothegrownups.net/wp-content/themes/twentytwenty/style.css?ver=1.8' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #d61347; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #d61347; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #d61347; }.fill-children-accent,.fill-children-accent * { fill: #d61347; }:root .has-background-color,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button,.comment-reply-link,.has-background.has-primary-background-color:not(.has-text-color),.has-background.has-primary-background-color *:not(.has-text-color),.has-background.has-accent-background-color:not(.has-text-color),.has-background.has-accent-background-color *:not(.has-text-color) { color: #f5efe0; }:root .has-background-background-color { background-color: #f5efe0; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #69603e; }:root .has-secondary-background-color { background-color: #69603e; }pre,fieldset,input,textarea,table,table *,hr { border-color: #d7cfab; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #d7cfab; }.wp-block-table.is-style-stripes { border-bottom-color: #d7cfab; }.wp-block-latest-posts.is-grid li { border-top-color: #d7cfab; }:root .has-subtle-background-color { color: #d7cfab; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #e22658; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #e22658; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #ffffff; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #ffffff; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dbdbdb; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dbdbdb; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css'  href='https://standuptothegrownups.net/wp-content/themes/twentytwenty/print.css?ver=1.8' media='print' />
+<script src='https://standuptothegrownups.net/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.8' id='twentytwenty-js-js' async></script>
+<link rel="https://api.w.org/" href="https://standuptothegrownups.net/wp-json/" /><link rel="alternate" type="application/json" href="https://standuptothegrownups.net/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://standuptothegrownups.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://standuptothegrownups.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.9" />
+<link rel="canonical" href="https://standuptothegrownups.net/comment-page-2/#comments" />
+<link rel='shortlink' href='https://standuptothegrownups.net/' />
+<link rel="alternate" type="application/json+oembed" href="https://standuptothegrownups.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstanduptothegrownups.net%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://standuptothegrownups.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstanduptothegrownups.net%2F&#038;format=xml" />
+	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<link rel="icon" href="https://standuptothegrownups.net/wp-content/uploads/2020/01/cropped-writing_header-2-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://standuptothegrownups.net/wp-content/uploads/2020/01/cropped-writing_header-2-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://standuptothegrownups.net/wp-content/uploads/2020/01/cropped-writing_header-2-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://standuptothegrownups.net/wp-content/uploads/2020/01/cropped-writing_header-2-270x270.jpg" />
+		<style id="wp-custom-css">
+			
+article.page, article.post {
+	background-image: 
+url("/wp-content/uploads/2020/02/writing_header.jpg") !important;
+	background-repeat: no-repeat;
+}
+
+.entry-header {
+	background: none !important;
+	min-height: 300px;
+}
+		</style>
+				
+		
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W10N81ZFCN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W10N81ZFCN');
+</script>
+
+
+	</head>
+
+	<body class="home page-template-default page page-id-8 wp-embed-responsive singular enable-search-modal missing-post-thumbnail has-no-pagination showing-comments show-avatars footer-top-visible">
+
+		<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>
+		<header id="site-header" class="header-footer-group" role="banner">
+
+			<div class="header-inner section-inner">
+
+				<div class="header-titles-wrapper">
+
+					
+						<button class="toggle search-toggle mobile-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+							<span class="toggle-inner">
+								<span class="toggle-icon">
+									<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>								</span>
+								<span class="toggle-text">Search</span>
+							</span>
+						</button><!-- .search-toggle -->
+
+					
+					<div class="header-titles">
+
+						<div class="site-title faux-heading"><a href="https://standuptothegrownups.net/">Stand up to the Grownups</a></div><div class="site-description">Activism for kids</div><!-- .site-description -->
+					</div><!-- .header-titles -->
+
+					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+						<span class="toggle-inner">
+							<span class="toggle-icon">
+								<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>							</span>
+							<span class="toggle-text">Menu</span>
+						</span>
+					</button><!-- .nav-toggle -->
+
+				</div><!-- .header-titles-wrapper -->
+
+				<div class="header-navigation-wrapper">
+
+					
+							<nav class="primary-menu-wrapper" aria-label="Horizontal" role="navigation">
+
+								<ul class="primary-menu reset-list-style">
+
+								<li id="menu-item-273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-273"><a href="https://standuptothegrownups.net/category/activist-toolkit/">Activist toolkit</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-289"><a href="https://standuptothegrownups.net/147/basic-activism-principles/">Basic activism principles</a></li>
+	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><a href="https://standuptothegrownups.net/11/tips-page/">Practical tips</a></li>
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><a href="https://standuptothegrownups.net/109/civil-disobedience/">Civil disobedience</a></li>
+</ul>
+</li>
+<li id="menu-item-271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><a href="https://standuptothegrownups.net/category/climate-change/">Climate change</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><a href="https://standuptothegrownups.net/173/climate-change-petition/">Climate change petition</a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><a href="https://standuptothegrownups.net/163/prime-minister-reply/">Prime minister reply</a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><a href="https://standuptothegrownups.net/16/school-strike-letter/">School strike letter</a></li>
+</ul>
+</li>
+<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><a href="https://standuptothegrownups.net/category/reducing-plastic-waste/">Reducing plastic waste</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><a href="https://standuptothegrownups.net/251/writing-to-food-companies/">Writing to food companies</a></li>
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><a href="https://standuptothegrownups.net/182/letter-on-the-national-plastic-summit/">Letter on the National Plastic Summit</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><a href="https://standuptothegrownups.net/25/reducing-plastic-waste-in-the-canteen/">Reducing plastic waste in the canteen</a></li>
+</ul>
+</li>
+<li id="menu-item-275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><a href="https://standuptothegrownups.net/category/reconciliation/">Racism and Reconciliation</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><a href="https://standuptothegrownups.net/category/raise-the-age/">Raise the Age</a><span class="icon"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><a href="https://standuptothegrownups.net/282/letters-on-raising-the-age/">Letters on Raising the Age</a></li>
+	</ul>
+</li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><a href="https://standuptothegrownups.net/203/interview-on-reconciliation/">Interview with 2020 ACT Australian of the Year on Reconciliation</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><a href="https://standuptothegrownups.net/205/conversation-on-reconciliation/">Conversation on Reconciliation</a></li>
+</ul>
+</li>
+<li id="menu-item-274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><a href="https://standuptothegrownups.net/category/school-reforms/">School reforms</a><span class="icon"></span>
+<ul class="sub-menu">
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><a href="https://standuptothegrownups.net/19/maths-test-petition/">Maths test petition</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><a href="https://standuptothegrownups.net/13/homework-in-hong-kong/">Homework in Hong Kong</a></li>
+</ul>
+</li>
+
+								</ul>
+
+							</nav><!-- .primary-menu-wrapper -->
+
+						
+						<div class="header-toggles hide-no-js">
+
+						
+							<div class="toggle-wrapper nav-toggle-wrapper has-expanded-menu">
+
+								<button class="toggle nav-toggle desktop-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+									<span class="toggle-inner">
+										<span class="toggle-text">Menu</span>
+										<span class="toggle-icon">
+											<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg>										</span>
+									</span>
+								</button><!-- .nav-toggle -->
+
+							</div><!-- .nav-toggle-wrapper -->
+
+							
+							<div class="toggle-wrapper search-toggle-wrapper">
+
+								<button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+									<span class="toggle-inner">
+										<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>										<span class="toggle-text">Search</span>
+									</span>
+								</button><!-- .search-toggle -->
+
+							</div>
+
+							
+						</div><!-- .header-toggles -->
+						
+				</div><!-- .header-navigation-wrapper -->
+
+			</div><!-- .header-inner -->
+
+			<div class="search-modal cover-modal header-footer-group" data-modal-target-string=".search-modal">
+
+	<div class="search-modal-inner modal-inner">
+
+		<div class="section-inner">
+
+			<form role="search" aria-label="Search for:" method="get" class="search-form" action="https://standuptothegrownups.net/">
+	<label for="search-form-1">
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" id="search-form-1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="Search" />
+</form>
+
+			<button class="toggle search-untoggle close-search-toggle fill-children-current-color" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field">
+				<span class="screen-reader-text">Close search</span>
+				<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>			</button><!-- .search-toggle -->
+
+		</div><!-- .section-inner -->
+
+	</div><!-- .search-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+		</header><!-- #site-header -->
+
+		
+<div class="menu-modal cover-modal header-footer-group" data-modal-target-string=".menu-modal">
+
+	<div class="menu-modal-inner modal-inner">
+
+		<div class="menu-wrapper section-inner">
+
+			<div class="menu-top">
+
+				<button class="toggle close-nav-toggle fill-children-current-color" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".menu-modal">
+					<span class="toggle-text">Close Menu</span>
+					<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>				</button><!-- .nav-toggle -->
+
+				
+					<nav class="expanded-menu" aria-label="Expanded" role="navigation">
+
+						<ul class="modal-menu reset-list-style">
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-273"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/activist-toolkit/">Activist toolkit</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-273 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-289"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/147/basic-activism-principles/">Basic activism principles</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/11/tips-page/">Practical tips</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/109/civil-disobedience/">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/climate-change/">Climate change</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-271 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/173/climate-change-petition/">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/163/prime-minister-reply/">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/16/school-strike-letter/">School strike letter</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/reducing-plastic-waste/">Reducing plastic waste</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-272 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/251/writing-to-food-companies/">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/182/letter-on-the-national-plastic-summit/">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/25/reducing-plastic-waste-in-the-canteen/">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/reconciliation/">Racism and Reconciliation</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-275 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/raise-the-age/">Raise the Age</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-288 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/282/letters-on-raising-the-age/">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/203/interview-on-reconciliation/">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/205/conversation-on-reconciliation/">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/school-reforms/">School reforms</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-274 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/19/maths-test-petition/">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/13/homework-in-hong-kong/">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+						</ul>
+
+					</nav>
+
+					
+					<nav class="mobile-menu" aria-label="Mobile" role="navigation">
+
+						<ul class="modal-menu reset-list-style">
+
+						<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-273"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/activist-toolkit/">Activist toolkit</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-273 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-289"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/147/basic-activism-principles/">Basic activism principles</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/11/tips-page/">Practical tips</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/109/civil-disobedience/">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/climate-change/">Climate change</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-271 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/173/climate-change-petition/">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/163/prime-minister-reply/">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/16/school-strike-letter/">School strike letter</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/reducing-plastic-waste/">Reducing plastic waste</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-272 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/251/writing-to-food-companies/">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/182/letter-on-the-national-plastic-summit/">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/25/reducing-plastic-waste-in-the-canteen/">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/reconciliation/">Racism and Reconciliation</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-275 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/raise-the-age/">Raise the Age</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-288 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/282/letters-on-raising-the-age/">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/203/interview-on-reconciliation/">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/205/conversation-on-reconciliation/">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/category/school-reforms/">School reforms</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-274 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/19/maths-test-petition/">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="https://standuptothegrownups.net/13/homework-in-hong-kong/">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
+</ul>
+</li>
+
+						</ul>
+
+					</nav>
+
+					
+			</div><!-- .menu-top -->
+
+			<div class="menu-bottom">
+
+				
+					<nav aria-label="Expanded Social links" role="navigation">
+						<ul class="social-menu reset-list-style social-icons fill-children-current-color">
+
+							<li id="menu-item-180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="http://instagram.com/standuptothegrownups"><span class="screen-reader-text">instagram</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg></a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-305"><a href="https://www.facebook.com/standuptothegrownups"><span class="screen-reader-text">facebook</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg></a></li>
+
+						</ul>
+					</nav><!-- .social-menu -->
+
+				
+			</div><!-- .menu-bottom -->
+
+		</div><!-- .menu-wrapper -->
+
+	</div><!-- .menu-modal-inner -->
+
+</div><!-- .menu-modal -->
+
+<main id="site-content" role="main">
+
+	
+<article class="post-8 page type-page status-publish hentry" id="post-8">
+
+	
+<header class="entry-header has-text-align-center header-footer-group">
+
+	<div class="entry-header-inner section-inner medium">
+
+		
+			<div class="entry-categories">
+				<span class="screen-reader-text">Categories</span>
+				<div class="entry-categories-inner">
+									</div><!-- .entry-categories-inner -->
+			</div><!-- .entry-categories -->
+
+			<h1 class="entry-title">Article 12</h1>
+	</div><!-- .entry-header-inner -->
+
+</header><!-- .entry-header -->
+
+	<div class="post-inner thin ">
+
+		<div class="entry-content">
+
+			
+<p>The United Nations Convention on the Rights of the Child, Article 12, states that children should be allowed to express their views on things affecting them, and those views should be taken into account. <br></p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Article 12<br>1. States Parties shall assure to the child who is capable of forming his or her own views the right to express those views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.</strong><br></p></blockquote>
+
+
+
+<p>Hi everyone,&nbsp;<br></p>
+
+
+
+<p>I am a 14 year old who thinks that we shouldn&#8217;t sit back and accept things we don&#8217;t like. When I was 8, I was in Hong Kong during three months of student protests for democracy and I spent a lot of time walking around their camps. Then when I was in Year 6 I lodged a complaint about having too much homework in my school.</p>
+
+
+
+<p>In March 2019 I went to the School Strike for Climate Action. I had to do some research before I went the first time because my parents said I wasn’t allowed to go unless I really agreed with what the protesters wanted, and unless I wrote to my school principal explaining why I was going to miss school. <br></p>
+
+
+
+<p>One of the things that made me want to do this was hearing the Prime Minister at the time say that kids should not protest and there should be ‘more learning and less activism in schools’.<br></p>
+
+
+
+<p>This made me realise that there are lots of issues that are important to kids and that we should have our say. And that we have the right to have our say.<br></p>
+
+
+
+<p>So I&#8217;ve set up this website to give kids some tools to have their say effectively. These tools work whether you are trying to change the world, or just trying to change something at school that you think is unfair.<br></p>
+
+
+
+<p>On this website, I have some of the letters that my sister and I have written, and the responses that we got to show you some of the things that have worked (and haven&#8217;t worked) for us.<br></p>
+
+
+
+<p>I am also interested in hearing from kids on what issues are important to them. We would like to tell grownups like politicians, who make decisions, what those issues are and what we would like the grownups to do.<br></p>
+
+
+
+<p>From, Zari </p>
+
+
+
+<p>P.S remember you can DM us on instagram or comment any of your experiences with activism, and I can even make a page on this site about it. Thanks!</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Welcome to Stand Up to the Grownups" width="580" height="326" src="https://www.youtube.com/embed/c45tEkQulDU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .post-inner -->
+
+	<div class="section-inner">
+		
+	</div><!-- .section-inner -->
+
+	
+		<div class="comments-wrapper section-inner">
+
+			
+	<div class="comments" id="comments">
+
+		
+		<div class="comments-header section-inner small max-percentage">
+
+			<h2 class="comment-reply-title">
+			16 replies on &ldquo;Article 12&rdquo;			</h2><!-- .comments-title -->
+
+		</div><!-- .comments-header -->
+
+		<div class="comments-inner section-inner thin max-percentage">
+
+						<div id="comment-65" class="comment even thread-even depth-1">
+				<article id="div-comment-65" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/f241db50c864180f0da5629c4e3dd6f6?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Vivienne Gstrein</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-65"><time datetime="2020-06-03T15:50:25+10:00" title="3 June 2020 at 3:50 pm">3 June 2020 at 3:50 pm</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>This is amazing! Thank you so much for making this website, so I can finally fight for what I believe in and make people listen. You did a spectacular job with making this website. 🙂</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=65#respond' data-commentid="65" data-postid="8" data-belowelement="div-comment-65" data-respondelement="respond" data-replyto="Reply to Vivienne Gstrein" aria-label='Reply to Vivienne Gstrein'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+			</div><!-- #comment-## -->
+			<div id="comment-34" class="comment odd alt thread-odd thread-alt depth-1">
+				<article id="div-comment-34" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/dd9813fc4d196f6b7256d6c4dbea7a2d?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Ansh</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-34"><time datetime="2020-03-31T13:14:47+10:00" title="31 March 2020 at 1:14 pm">31 March 2020 at 1:14 pm</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>This is such a great idea. If only adults weren&#8217;t so obstinate and would actually believe that children have great ideas. Hopefully, this progresses into something that benefits the world. Great initiative Zari!</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=34#respond' data-commentid="34" data-postid="8" data-belowelement="div-comment-34" data-respondelement="respond" data-replyto="Reply to Ansh" aria-label='Reply to Ansh'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+			</div><!-- #comment-## -->
+			<div id="comment-29" class="comment even thread-even depth-1">
+				<article id="div-comment-29" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/d07d72314fbbb411314aed98d8a5036f?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Sam</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-29"><time datetime="2020-03-24T09:41:38+10:00" title="24 March 2020 at 9:41 am">24 March 2020 at 9:41 am</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>It&#8217;s great that there are some people in this world that sees how the grownups are screwing up our world, this initiative is amazing and i hope it progresses! Good job Zari</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=29#respond' data-commentid="29" data-postid="8" data-belowelement="div-comment-29" data-respondelement="respond" data-replyto="Reply to Sam" aria-label='Reply to Sam'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+			</div><!-- #comment-## -->
+			<div id="comment-28" class="comment odd alt thread-odd thread-alt depth-1 parent">
+				<article id="div-comment-28" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/a338eaae2b867777635720672b1a390b?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Eleanor</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-28"><time datetime="2020-03-24T09:41:05+10:00" title="24 March 2020 at 9:41 am">24 March 2020 at 9:41 am</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>Hello Zari! This is an amazing idea, your initiative is admirable! I hope this website gets a lot of attention 🙂</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=28#respond' data-commentid="28" data-postid="8" data-belowelement="div-comment-28" data-respondelement="respond" data-replyto="Reply to Eleanor" aria-label='Reply to Eleanor'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+						<div id="comment-35" class="comment even depth-2">
+				<article id="div-comment-35" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/40344bb72a93087a1b1d907ae1a1f852?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Keira</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-35"><time datetime="2020-03-31T13:21:34+10:00" title="31 March 2020 at 1:21 pm">31 March 2020 at 1:21 pm</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>This is amazing and inspiring to read. Keep doing what your doing and everyone will stand up with you like I am sure many of us already do. This is an amazing accomplishment. Well done! 🙂</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=35#respond' data-commentid="35" data-postid="8" data-belowelement="div-comment-35" data-respondelement="respond" data-replyto="Reply to Keira" aria-label='Reply to Keira'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+			</div><!-- #comment-## -->
+</div><!-- #comment-## -->
+			<div id="comment-25" class="comment odd alt thread-even depth-1">
+				<article id="div-comment-25" class="comment-body">
+					<footer class="comment-meta">
+						<div class="comment-author vcard">
+							<img alt='' src='https://secure.gravatar.com/avatar/78de9f27053767919ae92d7ad63b3b47?s=120&#038;d=mm&#038;r=g' class='avatar avatar-120 photo' height='120' width='120' loading='lazy' /><span class="fn">Olivia</span><span class="screen-reader-text says">says:</span>						</div><!-- .comment-author -->
+
+						<div class="comment-metadata">
+							<a href="https://standuptothegrownups.net/comment-page-2/#comment-25"><time datetime="2020-03-14T17:49:50+10:00" title="14 March 2020 at 5:49 pm">14 March 2020 at 5:49 pm</time></a>						</div><!-- .comment-metadata -->
+
+					</footer><!-- .comment-meta -->
+
+					<div class="comment-content entry-content">
+
+						<p>Hey Zari! I think it&#8217;s so so so amazing what you&#8217;re doing and it deserves a lot of attention. It takes a lot of courage and initiative to do something like this and it&#8217;s incredible. I&#8217;m reaching out to some people that I think will be interested as this is so important. Thanks for all your hard work! 🙂</p>
+
+					</div><!-- .comment-content -->
+
+					
+						<footer class="comment-footer-meta">
+
+							<span class="comment-reply"><a rel='nofollow' class='do-not-scroll comment-reply-link' href='https://standuptothegrownups.net/comment-page-2/?replytocom=25#respond' data-commentid="25" data-postid="8" data-belowelement="div-comment-25" data-respondelement="respond" data-replyto="Reply to Olivia" aria-label='Reply to Olivia'>Reply</a></span>
+						</footer>
+
+						
+				</article><!-- .comment-body -->
+
+			</div><!-- #comment-## -->
+
+				<nav class="comments-pagination pagination" aria-label="Comments">
+					<a class="prev page-numbers" href="https://standuptothegrownups.net/comment-page-1/?replytocom=12#comments"><span aria-hidden="true">&larr;</span> Older Comments</a>
+<a class="page-numbers" href="https://standuptothegrownups.net/comment-page-1/?replytocom=12#comments">1</a>
+<span class="page-numbers current">2</span>
+<a class="page-numbers" href="https://standuptothegrownups.net/comment-page-3/?replytocom=12#comments">3</a>
+<a class="next page-numbers" href="https://standuptothegrownups.net/comment-page-3/?replytocom=12#comments">Newer Comments <span aria-hidden="true">&rarr;</span></a>				</nav>
+
+				
+		</div><!-- .comments-inner -->
+
+	</div><!-- comments -->
+
+	<hr class="styled-separator is-style-wide" aria-hidden="true" />	<div id="respond" class="comment-respond">
+		<h2 id="reply-title" class="comment-reply-title">Leave a Reply to <a href="#comment-12">Iris</a> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/comment-page-2/#respond">Cancel reply</a></small></h2><form action="https://standuptothegrownups.net/wp-comments-post.php" method="post" id="commentform" class="section-inner thin max-percentage" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='8' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='12' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1c06c246b9" /></p><input type="hidden" id="ak_js" name="ak_js" value="96"/><textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100" style="display: none !important;"></textarea></form>	</div><!-- #respond -->
+	
+		</div><!-- .comments-wrapper -->
+
+		
+</article><!-- .post -->
+
+</main><!-- #site-content -->
+
+
+	<div class="footer-nav-widgets-wrapper header-footer-group">
+
+		<div class="footer-inner section-inner">
+
+							<div class="footer-top has-social-menu">
+										
+						<nav aria-label="Social links" class="footer-social-wrapper">
+
+							<ul class="social-menu footer-social reset-list-style social-icons fill-children-current-color">
+
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180"><a href="http://instagram.com/standuptothegrownups"><span class="screen-reader-text">instagram</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-305"><a href="https://www.facebook.com/standuptothegrownups"><span class="screen-reader-text">facebook</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg></a></li>
+
+							</ul><!-- .footer-social -->
+
+						</nav><!-- .footer-social-wrapper -->
+
+									</div><!-- .footer-top -->
+
+			
+			
+				<aside class="footer-widgets-outer-wrapper" role="complementary">
+
+					<div class="footer-widgets-wrapper">
+
+						
+							<div class="footer-widgets column-one grid-item">
+								<div class="widget widget_categories"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Categories</h2><nav role="navigation" aria-label="Categories">
+			<ul>
+					<li class="cat-item cat-item-5"><a href="https://standuptothegrownups.net/category/activist-toolkit/">Activist toolkit</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://standuptothegrownups.net/category/climate-change/">Climate change</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://standuptothegrownups.net/category/reconciliation/">Racism and Reconciliation</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://standuptothegrownups.net/category/raise-the-age/">Raise the Age</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://standuptothegrownups.net/category/reducing-plastic-waste/">Reducing plastic waste</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://standuptothegrownups.net/category/school-reforms/">School reforms</a>
+</li>
+			</ul>
+
+			</nav></div></div>
+		<div class="widget widget_recent_entries"><div class="widget-content">
+		<h2 class="widget-title subheading heading-size-3">Recent Posts</h2><nav role="navigation" aria-label="Recent Posts">
+		<ul>
+											<li>
+					<a href="https://standuptothegrownups.net/367/act-government-sustainability-leadership-awards/">ACT Government Sustainability Leadership Awards</a>
+									</li>
+											<li>
+					<a href="https://standuptothegrownups.net/163/prime-minister-reply/">Prime minister reply</a>
+									</li>
+											<li>
+					<a href="https://standuptothegrownups.net/251/writing-to-food-companies/">Writing to food companies</a>
+									</li>
+											<li>
+					<a href="https://standuptothegrownups.net/309/dealing-with-false-allegations/">Dealing with false allegations</a>
+									</li>
+											<li>
+					<a href="https://standuptothegrownups.net/276/raise-the-age/">Raise the Age</a>
+									</li>
+					</ul>
+
+		</nav></div></div><div class="widget widget_meta"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Meta</h2><nav role="navigation" aria-label="Meta">
+		<ul>
+						<li><a href="https://standuptothegrownups.net/wp-login.php">Log in</a></li>
+			<li><a href="https://standuptothegrownups.net/feed/">Entries feed</a></li>
+			<li><a href="https://standuptothegrownups.net/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</nav></div></div>							</div>
+
+						
+						
+					</div><!-- .footer-widgets-wrapper -->
+
+				</aside><!-- .footer-widgets-outer-wrapper -->
+
+			
+		</div><!-- .footer-inner -->
+
+	</div><!-- .footer-nav-widgets-wrapper -->
+
+
+			<footer id="site-footer" role="contentinfo" class="header-footer-group">
+
+				<div class="section-inner">
+
+					<div class="footer-credits">
+
+						<p class="footer-copyright">&copy;
+							2024							<a href="https://standuptothegrownups.net/">Stand up to the Grownups</a>
+						</p><!-- .footer-copyright -->
+
+						<p class="powered-by-wordpress">
+							<a href="https://en-au.wordpress.org/">
+								Powered by WordPress							</a>
+						</p><!-- .powered-by-wordpress -->
+
+					</div><!-- .footer-credits -->
+
+					<a class="to-the-top" href="#site-header">
+						<span class="to-the-top-long">
+							To the top <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-long -->
+						<span class="to-the-top-short">
+							Up <span class="arrow" aria-hidden="true">&uarr;</span>						</span><!-- .to-the-top-short -->
+					</a><!-- .to-the-top -->
+
+				</div><!-- .section-inner -->
+
+			</footer><!-- #site-footer -->
+
+		<script src='https://standuptothegrownups.net/wp-includes/js/comment-reply.min.js?ver=5.8.9' id='comment-reply-js'></script>
+<script src='https://standuptothegrownups.net/wp-includes/js/wp-embed.min.js?ver=5.8.9' id='wp-embed-js'></script>
+<script defer src='https://standuptothegrownups.net/wp-content/plugins/akismet/_inc/form.js?ver=4.1.11' id='akismet-form-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+	</body>
+</html>
