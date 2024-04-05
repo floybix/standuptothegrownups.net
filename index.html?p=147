@@ -124,39 +124,39 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 								<li id="menu-item-273" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-273"><a href="category/activist-toolkit/index.html">Activist toolkit</a><span class="icon"></span>
 <ul class="sub-menu">
 	<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-289"><a href="147/basic-activism-principals/index.html" aria-current="page">Basic activism principles</a></li>
-	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><a href="index.html?p=11">Practical tips</a></li>
-	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><a href="index.html?p=109">Civil disobedience</a></li>
+	<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><a href="11/tips-page/">Practical tips</a></li>
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><a href="109/civil-disobedience/">Civil disobedience</a></li>
 </ul>
 </li>
 <li id="menu-item-271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><a href="category/climate-change/index.html">Climate change</a><span class="icon"></span>
 <ul class="sub-menu">
-	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><a href="index.html?p=173">Climate change petition</a></li>
-	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><a href="index.html?p=163">Prime minister reply</a></li>
-	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><a href="index.html?p=16">School strike letter</a></li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><a href="173/climate-change-petition/">Climate change petition</a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><a href="163/prime-minister-reply/">Prime minister reply</a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><a href="16/school-strike-letter/">School strike letter</a></li>
 </ul>
 </li>
 <li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><a href="category/reducing-plastic-waste/index.html">Reducing plastic waste</a><span class="icon"></span>
 <ul class="sub-menu">
-	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><a href="index.html?p=251">Writing to food companies</a></li>
-	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><a href="index.html?p=182">Letter on the National Plastic Summit</a></li>
-	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><a href="index.html?p=25">Reducing plastic waste in the canteen</a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><a href="251/writing-to-food-companies/">Writing to food companies</a></li>
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><a href="182/letter-on-the-national-plastic-summit">Letter on the National Plastic Summit</a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><a href="25/reducing-plastic-waste-in-the-canteen">Reducing plastic waste in the canteen</a></li>
 </ul>
 </li>
 <li id="menu-item-275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><a href="category/reconciliation/index.html">Racism and Reconciliation</a><span class="icon"></span>
 <ul class="sub-menu">
 	<li id="menu-item-288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><a href="category/raise-the-age/index.html">Raise the Age</a><span class="icon"></span>
 	<ul class="sub-menu">
-		<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><a href="index.html?p=282">Letters on Raising the Age</a></li>
+		<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><a href="282/letters-on-raising-the-age">Letters on Raising the Age</a></li>
 	</ul>
 </li>
-	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><a href="index.html?p=203">Interview with 2020 ACT Australian of the Year on Reconciliation</a></li>
-	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><a href="index.html?p=205">Conversation on Reconciliation</a></li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><a href="203/interview-on-reconciliation">Interview with 2020 ACT Australian of the Year on Reconciliation</a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><a href="205/conversation-on-reconciliation">Conversation on Reconciliation</a></li>
 </ul>
 </li>
 <li id="menu-item-274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><a href="category/school-reforms/index.html">School reforms</a><span class="icon"></span>
 <ul class="sub-menu">
-	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><a href="index.html?p=19">Maths test petition</a></li>
-	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><a href="index.html?p=13">Homework in Hong Kong</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><a href="19/maths-test-petition">Maths test petition</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><a href="13/homework-in-hong-kong">Homework in Hong Kong</a></li>
 </ul>
 </li>
 
@@ -244,39 +244,39 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 							<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-273"><div class="ancestor-wrapper"><a href="category/activist-toolkit/index.html">Activist toolkit</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-273 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-289"><div class="ancestor-wrapper"><a href="147/basic-activism-principals/index.html" aria-current="page">Basic activism principles</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="index.html?p=11">Practical tips</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="index.html?p=109">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="11/tips-page/">Practical tips</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="109/civil-disobedience/">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><div class="ancestor-wrapper"><a href="category/climate-change/index.html">Climate change</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-271 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="index.html?p=173">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="index.html?p=163">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="index.html?p=16">School strike letter</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="173/climate-change-petition/">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="163/prime-minister-reply/">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="16/school-strike-letter/">School strike letter</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><div class="ancestor-wrapper"><a href="category/reducing-plastic-waste/index.html">Reducing plastic waste</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-272 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="index.html?p=251">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="index.html?p=182">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="index.html?p=25">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="251/writing-to-food-companies/">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="182/letter-on-the-national-plastic-summit">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="25/reducing-plastic-waste-in-the-canteen">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><div class="ancestor-wrapper"><a href="category/reconciliation/index.html">Racism and Reconciliation</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-275 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><div class="ancestor-wrapper"><a href="category/raise-the-age/index.html">Raise the Age</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-288 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="index.html?p=282">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="282/letters-on-raising-the-age">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="index.html?p=203">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="index.html?p=205">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="203/interview-on-reconciliation">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="205/conversation-on-reconciliation">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><div class="ancestor-wrapper"><a href="category/school-reforms/index.html">School reforms</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-274 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="index.html?p=19">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="index.html?p=13">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="19/maths-test-petition">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="13/homework-in-hong-kong">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 						</ul>
@@ -291,39 +291,39 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 						<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-273"><div class="ancestor-wrapper"><a href="category/activist-toolkit/index.html">Activist toolkit</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-273 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-289"><div class="ancestor-wrapper"><a href="147/basic-activism-principals/index.html" aria-current="page">Basic activism principles</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="index.html?p=11">Practical tips</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="index.html?p=109">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-290"><div class="ancestor-wrapper"><a href="11/tips-page/">Practical tips</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-291"><div class="ancestor-wrapper"><a href="109/civil-disobedience/">Civil disobedience</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-271"><div class="ancestor-wrapper"><a href="category/climate-change/index.html">Climate change</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-271 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="index.html?p=173">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="index.html?p=163">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="index.html?p=16">School strike letter</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-300"><div class="ancestor-wrapper"><a href="173/climate-change-petition/">Climate change petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-301"><div class="ancestor-wrapper"><a href="163/prime-minister-reply/">Prime minister reply</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-295"><div class="ancestor-wrapper"><a href="16/school-strike-letter/">School strike letter</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-272"><div class="ancestor-wrapper"><a href="category/reducing-plastic-waste/index.html">Reducing plastic waste</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-272 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="index.html?p=251">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="index.html?p=182">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="index.html?p=25">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-297"><div class="ancestor-wrapper"><a href="251/writing-to-food-companies/">Writing to food companies</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-298"><div class="ancestor-wrapper"><a href="182/letter-on-the-national-plastic-summit">Letter on the National Plastic Summit</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-299"><div class="ancestor-wrapper"><a href="25/reducing-plastic-waste-in-the-canteen">Reducing plastic waste in the canteen</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-275"><div class="ancestor-wrapper"><a href="category/reconciliation/index.html">Racism and Reconciliation</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-275 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-288"><div class="ancestor-wrapper"><a href="category/raise-the-age/index.html">Raise the Age</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-288 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="index.html?p=282">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-292"><div class="ancestor-wrapper"><a href="282/letters-on-raising-the-age">Letters on Raising the Age</a></div><!-- .ancestor-wrapper --></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="index.html?p=203">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="index.html?p=205">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-293"><div class="ancestor-wrapper"><a href="203/interview-on-reconciliation">Interview with 2020 ACT Australian of the Year on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-302"><div class="ancestor-wrapper"><a href="205/conversation-on-reconciliation">Conversation on Reconciliation</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-274"><div class="ancestor-wrapper"><a href="category/school-reforms/index.html">School reforms</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-274 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div><!-- .ancestor-wrapper -->
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="index.html?p=19">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="index.html?p=13">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-294"><div class="ancestor-wrapper"><a href="19/maths-test-petition">Maths test petition</a></div><!-- .ancestor-wrapper --></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-296"><div class="ancestor-wrapper"><a href="13/homework-in-hong-kong">Homework in Hong Kong</a></div><!-- .ancestor-wrapper --></li>
 </ul>
 </li>
 
@@ -453,7 +453,7 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 
 
 
-<p>For example, when Yassine was told that the canteen couldn&#8217;t have wooden forks because kids might break them and use them as weapons, she thought that was quite a silly argument. But instead of saying so, she did <a href="index.html?p=161">a series of experiments with actual wooden forks</a> to see how easy they were for kids to break and whether they would be sharp enough to be dangerous.</p>
+<p>For example, when Yassine was told that the canteen couldn&#8217;t have wooden forks because kids might break them and use them as weapons, she thought that was quite a silly argument. But instead of saying so, she did <a href="16/school-strike-letter/1">a series of experiments with actual wooden forks</a> to see how easy they were for kids to break and whether they would be sharp enough to be dangerous.</p>
 
 
 
@@ -475,13 +475,13 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 		<div class="pagination-single-inner">
 
 			
-				<a class="previous-post" href="index.html?p=11">
+				<a class="previous-post" href="11/tips-page/">
 					<span class="arrow" aria-hidden="true">&larr;</span>
 					<span class="title"><span class="title-inner">Practical tips</span></span>
 				</a>
 
 				
-				<a class="next-post" href="index.html?p=173">
+				<a class="next-post" href="173/climate-change-petition/">
 					<span class="arrow" aria-hidden="true">&rarr;</span>
 						<span class="title"><span class="title-inner">Climate change petition</span></span>
 				</a>
@@ -560,19 +560,19 @@ url("wp-content/uploads/2020/02/writing_header.jpg") !important;
 		<h2 class="widget-title subheading heading-size-3">Recent Posts</h2><nav role="navigation" aria-label="Recent Posts">
 		<ul>
 											<li>
-					<a href="index.html?p=367">ACT Government Sustainability Leadership Awards</a>
+					<a href="367/act-government-sustainability-leadership-awards">ACT Government Sustainability Leadership Awards</a>
 									</li>
 											<li>
-					<a href="index.html?p=163">Prime minister reply</a>
+					<a href="163/prime-minister-reply/">Prime minister reply</a>
 									</li>
 											<li>
-					<a href="index.html?p=251">Writing to food companies</a>
+					<a href="251/writing-to-food-companies/">Writing to food companies</a>
 									</li>
 											<li>
-					<a href="index.html?p=309">Dealing with false allegations</a>
+					<a href="309/dealing-with-false-allegations">Dealing with false allegations</a>
 									</li>
 											<li>
-					<a href="index.html?p=276">Raise the Age</a>
+					<a href="276/raise-the-age">Raise the Age</a>
 									</li>
 					</ul>
 
